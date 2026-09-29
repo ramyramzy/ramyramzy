@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ramy Ramzy 👋</h1>
+<h1 align="center">Hi there, I'm Ramy Ramzy Attia 👋</h1>
 <h3 align="center">Geographer | GIS & Remote Sensing Analyst | GeoAI Enthusiast</h3>
 
 <p align="center">
